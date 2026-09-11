@@ -30,5 +30,13 @@ Proyecto base: https://github.com/Enrique17/dummy_android.git
 
 ## Capturas
 
-<img width="316" height="537" alt="Screenshot 2026-09-11 175123" src="https://github.com/user-attachments/assets/6565e13d-7e7d-4e84-b6bf-b133b997ee33" />
+<img width="296" height="493" alt="Screenshot 2026-09-11 175218" src="https://github.com/user-attachments/assets/62d11504-8524-49ad-ab13-788a6558919a" />
+
+<img width="292" height="482" alt="Screenshot 2026-09-11 175320" src="https://github.com/user-attachments/assets/afe5802a-646b-418d-bfcd-181232e91ce8" />
+
+<img width="316" height="537" alt="Screenshot 2026-09-11 175123" src="https://github.com/user-attachments/assets/30e45510-1421-4582-8489-46b3689411d3" />
+
+
+
+
 
