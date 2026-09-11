@@ -30,4 +30,5 @@ Proyecto base: https://github.com/Enrique17/dummy_android.git
 
 ## Capturas
 
-(pendiente: agregar 2-3 capturas del login, registro y dashboard después de correr la app en el emulador)
+<img width="316" height="537" alt="Screenshot 2026-09-11 175123" src="https://github.com/user-attachments/assets/6565e13d-7e7d-4e84-b6bf-b133b997ee33" />
+
